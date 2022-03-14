@@ -14,7 +14,7 @@ model1 for P1 prediction and an example of model3 for P9 prediction, both traine
 
 servier_flask_api:
 
-A simple flask api to get the binary prediction for any given SMILES molecule (using model1) that can be install in a conda virtual env with the following commands in your shell environment:
+A simple flask api to get the binary prediction for any given SMILES molecule (using model1) that can be install in a conda virtual env with the following commands in your shell environment (see in raw mode for copy paste the commands):
 
 wget --quiet https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
 Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda 
