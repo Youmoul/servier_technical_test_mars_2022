@@ -10,7 +10,7 @@ Containing main.py module and a detailed readme.md file on how to use and proces
 models:
 
 Saved keras models:
-model1 for P1 prediction and an example of model3 for P9 prediction, both trained on 100 epochs using the module main.py as explained in the readme.md in the main repository.
+model1 for P1 prediction and an example of model3 for P9 prediction, both trained on 100 epochs using the module main.py as explained in the readme.md.txt in the main repository.
 
 servier_flask_api:
 
