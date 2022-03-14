@@ -29,3 +29,4 @@ git clone https://github.com/Youmoul/servier_technical_test_mars_2022/servier_fl
 cd test/servier_flask_api
 python setup.py install
 servier
+
