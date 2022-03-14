@@ -52,7 +52,7 @@ servier
 __________________________________________
 
 Personal information to the recruitor: 
-Very sadly I had to develop these codes on my old personal laptop with Anaconda3 prompt / Notepad++ on Windows and addiotionally ran out of memory storage while installing Docker... Hence I can not demonstrate my Docker command and provide my optimized application image.
+Very sadly I had to develop these codes on my old personal laptop with Anaconda3 prompt / Notepad++ on Windows and additionally ran out of memory storage while installing Docker at the last moment... Hence I can not demonstrate my Docker command and provide my optimized application image in due time. Sorry for the inconveniancy.
 
 :)
 
