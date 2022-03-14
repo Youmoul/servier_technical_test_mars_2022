@@ -1,14 +1,12 @@
 # servier_technical_test_mars_2022
 Data Science technical test
 
-VIEW IN RAW MODE FOR COPYING THE USEFUL COMMANDS
-
 /Youmoul/servier_technical_test_mars_2022
 _____________________________________________
 
 /main/
 
-Containing main.py module and a detailed readme.md file on how to use and process the datasets as well as train and evaluate deep learning models for binary prediction of SMILES molecules
+Containing main.py module and a detailed readme.md.txt file on how to use and process the datasets as well as train and evaluate deep learning models for binary prediction of SMILES molecules representation.
 _____________________________________________
 
 /models/
