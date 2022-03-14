@@ -1,0 +1,10 @@
+numpy
+tensorflow
+pandas
+rdkit-pypi
+sklearn
+keras
+docker
+setuptools
+#list of packages to install in your conda environment (servier)
+#cf. readme.md if encountering any problems or contact mxxxxx.cxxxxx@gmail.com
