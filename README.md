@@ -25,9 +25,8 @@ conda update -n base conda
 conda create -y --name servier python=3.6
 conda activate servier
 conda install -c conda-forge rdkit
-pip install -r requirements.txt
-python setup.py install
 git clone https://github.com/Youmoul/servier_technical_test_mars_2022/servier_flask_api test
+pip install -r requirements.txt
 cd test/servier_flask_api
 python setup.py install
 servier
