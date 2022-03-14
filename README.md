@@ -1,7 +1,7 @@
 # servier_technical_test_mars_2022
 Data Science technical test
 
-VIEW IN RAW MODE FOR BETTER COMPREHENSION
+VIEW IN RAW MODE FOR COPYING THE USEFUL COMMANDS
 
 /Youmoul/servier_technical_test_mars_2022
 _____________________________________________
