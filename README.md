@@ -13,7 +13,7 @@ _____________________________________________
 
 /models/
 
-model1 for P1 prediction and a model3 for P9 prediction, both trained on 100 epochs using the module main.py as explained in the readme.md.txt in the main repository. model2 has not been developed due to the technical incoherances with it's definition. 
+model1 for P1 prediction and a model3 for P9 prediction, both trained on 100 epochs using the module main.py as explained in the readme.md.txt in the main repository. model2 has not been developed due to the technical incoherances with its definition. 
 _____________________________________________
 
 /servier_flask_api/
