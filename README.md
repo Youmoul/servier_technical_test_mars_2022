@@ -22,30 +22,30 @@ A simple flask api turn into an application to predict the binary property for a
 
 If you already have an environment with git, python and pip the following commands should install and display the application:
 
-*********
-git clone https://github.com/Youmoul/servier_technical_test_mars_2022/servier_flask_api test
-cd test/servier_flask_api
-pip install -r requirements.txt
-python setup.py install
-servier
-*********
+
+git clone https://github.com/Youmoul/servier_technical_test_mars_2022/servier_flask_api test <br />
+cd test/servier_flask_api <br />
+pip install -r requirements.txt <br />
+python setup.py install <br />
+servier <br />
+
 
 
 Else copy paste the following commands:
 
-wget --quiet https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda 
-export PATH=~/miniconda/bin:$PATH
-conda update -n base conda
-conda create -y --name servier python=3.6
-conda activate servier
-conda install -c conda-forge rdkit
-conda install -c conda-forge git
-git clone https://github.com/Youmoul/servier_technical_test_mars_2022/servier_flask_api test
-pip install -r requirements.txt
-cd test/servier_flask_api
-python setup.py install
-servier
+wget --quiet https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh <br />
+Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda <br />
+export PATH=~/miniconda/bin:$PATH <br />
+conda update -n base conda <br />
+conda create -y --name servier python=3.6 <br />
+conda activate servier <br />
+conda install -c conda-forge rdkit <br />
+conda install -c conda-forge git <br />
+git clone https://github.com/Youmoul/servier_technical_test_mars_2022/servier_flask_api test <br />
+pip install -r requirements.txt <br />
+cd test/servier_flask_api <br />
+python setup.py install <br />
+servier <br />
 
 
 __________________________________________
