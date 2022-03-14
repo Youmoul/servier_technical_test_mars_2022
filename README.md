@@ -40,8 +40,8 @@ conda activate servier <br />
 conda install -c conda-forge rdkit <br />
 conda install -c conda-forge git <br />
 git clone https://github.com/Youmoul/servier_technical_test_mars_2022/servier_flask_api test <br />
-pip install -r requirements.txt <br />
 cd test/servier_flask_api <br />
+pip install -r requirements.txt <br />
 python setup.py install <br />
 servier <br />
 
